@@ -1,0 +1,6 @@
+c:\users\ruisu\documents\visual studio 2017\Projects\Pares\Pares\obj\Debug\Pares.csproj.CoreCompileInputs.cache
+c:\users\ruisu\documents\visual studio 2017\Projects\Pares\Pares\bin\Debug\Pares.exe.config
+c:\users\ruisu\documents\visual studio 2017\Projects\Pares\Pares\bin\Debug\Pares.exe
+c:\users\ruisu\documents\visual studio 2017\Projects\Pares\Pares\bin\Debug\Pares.pdb
+c:\users\ruisu\documents\visual studio 2017\Projects\Pares\Pares\obj\Debug\Pares.exe
+c:\users\ruisu\documents\visual studio 2017\Projects\Pares\Pares\obj\Debug\Pares.pdb
